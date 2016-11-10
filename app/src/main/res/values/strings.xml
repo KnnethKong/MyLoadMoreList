@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLoadMoreList</string>
+
+    <string name="pull_to_refresh">refesh</string>
+    <string name="release_to_refresh">release</string>
+    <string name="refreshing">refreshing</string>
+</resources>
